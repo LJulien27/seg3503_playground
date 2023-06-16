@@ -4,4 +4,4 @@ Etudiant 2: Rodney Kiwan #300235150
 Le but de ce lab est de couvrir toute les taches/tests dans le Jacoco
 
 
-![Image](https://github.com/LJulien27/seg3503_playground/blob/main/lab03/images/Screenshot%202023-06-16%20181855.png)
+![Image](images/Screenshot%202023-06-16%20181855.png)
