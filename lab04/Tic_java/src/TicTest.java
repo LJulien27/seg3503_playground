@@ -39,7 +39,7 @@ class TicTest {
 	@Test
 	public void test4() {
 		Tic actual = new Tic(4, 1);
-		String[][] expected = { { "_", "_", "_", "_" } };
+		String[][] expected = { { "_" }, { "_" }, { "_" }, { "_" } };
 		assertTrue(Arrays.deepEquals(expected, actual.board));
 	}
 
