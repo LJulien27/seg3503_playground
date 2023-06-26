@@ -29,3 +29,35 @@ Here is a fifth test (that fails) to see if two Tics are the same
 
 Here is the functioning code
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/c24c53bb-e478-48a2-a2c9-2946a652d66e)
+
+***We were having trouble with rodney connecting to the github so he did his tests directly on my laptop***
+
+Here is the sixth failing test that sees if two tics are equals
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/e937035b-0e59-493e-82c1-68e20806f8c2)
+
+Here is the corrected sixth test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/34f28289-6425-45c9-8204-42fc302d31b1)
+
+Here is the seventh failing test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/ef27ef2b-513e-49a1-8dcf-acab7109ffb6)
+
+Here is the corrected seventh test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/201cb7d2-d303-42b9-b5c7-623c9328dad0)
+
+Here is a failing eigth test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/8c25f47a-b097-417d-9eb3-79af78326586)
+
+Here is the corrected eigth test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/645226d3-9f1e-43a5-b5d5-b60d2e7049ff)
+
+Here is a failing ninth test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/0d1f4122-afed-433b-a207-f770a357324f)
+
+Here is the corrected ninth test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/cb3f571f-61c5-4e91-8734-2abc4000cb76)
+
+Here is the failing tenth test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/c34873e9-5fb8-4dce-a2a8-48216a06def1)
+
+Here is the corrected tenth test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/2b2c3252-777e-4003-846a-80d22fd8f885)
