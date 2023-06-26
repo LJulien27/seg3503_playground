@@ -1,4 +1,5 @@
-Liam Julien 300251443
+Liam Julien #300251443
+Rodney Kiwan #300235150
 
 this first test fails, I'm making an empty board and testing to see if the resulting array is of the right size
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/731f54f7-f795-4c5b-94ec-e417b3ec7a92)
@@ -29,6 +30,9 @@ Here is a fifth test (that fails) to see if two Tics are the same
 
 Here is the functioning code
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/c24c53bb-e478-48a2-a2c9-2946a652d66e)
+
+And here is the test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/65303629-a063-4da0-aae7-ccda823c2ea0)
 
 ***We were having trouble with rodney connecting to the github so he did his tests directly on my laptop***
 
@@ -61,3 +65,7 @@ Here is the failing tenth test
 
 Here is the corrected tenth test
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/2b2c3252-777e-4003-846a-80d22fd8f885)
+
+Here is a screenshot of commit history
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/e6c58666-628d-4733-ad29-1aa7c40caef7)
+
