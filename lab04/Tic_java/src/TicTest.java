@@ -46,7 +46,7 @@ class TicTest {
 	@Test
 	public void test5() {
 		Tic actual = new Tic(3, 3);
-		Tic actual2 = new Tic(3, 2);
+		Tic actual2 = new Tic(3, 3);
 		assertTrue(actual.Equals(actual2));
 	}
 
