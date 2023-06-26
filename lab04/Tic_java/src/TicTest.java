@@ -22,4 +22,11 @@ class TicTest {
 		assertTrue(Arrays.deepEquals(expected, actual.board));
 	}
 
+	@Test
+	public void test2() {
+		Tic actual = new Tic(3, 1);
+		String[][] expected = { { " " }, { " " }, { " " } };
+		assertTrue(Arrays.deepEquals(expected, actual.board));
+	}
+
 }
