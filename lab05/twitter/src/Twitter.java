@@ -26,13 +26,14 @@ public class Twitter {
     String x = "";
     int nouveau = tweet.indexOf("@");
 
-    for (int i = nouveau; i < tweet.length(); i++) {
-      if (tweet.charAt(i) == ' ') {
+    int empty = nouveau;
+    while (empty < tweet.length()) {
+      if (tweet.charAt(empty) == ' ') {
         break;
       }
-      x += tweet.charAt(i);
+      x = x + tweet.charAt(empty);
+      empty++;
     }
-
     return x.equals("@" + name);
   }
 
