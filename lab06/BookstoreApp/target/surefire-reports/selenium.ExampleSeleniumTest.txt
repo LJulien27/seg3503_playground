@@ -1,0 +1,38 @@
+-------------------------------------------------------------------------------
+Test set: selenium.ExampleSeleniumTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 27.771 s <<< FAILURE! - in selenium.ExampleSeleniumTest
+test1  Time elapsed: 15.057 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:25621
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '19V8ZD3-0991', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: driver.version: RemoteWebDriver
+	at selenium.ExampleSeleniumTest.setUp(ExampleSeleniumTest.java:38)
+Caused by: java.net.ConnectException: Failed to connect to localhost/0:0:0:0:0:0:0:1:25621
+	at selenium.ExampleSeleniumTest.setUp(ExampleSeleniumTest.java:38)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at selenium.ExampleSeleniumTest.setUp(ExampleSeleniumTest.java:38)
+
+test2  Time elapsed: 6.332 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '19V8ZD3-0991', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\liamj\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61530}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 79226115d91433109ebba5de0adf63c9
+	at selenium.ExampleSeleniumTest.setUp(ExampleSeleniumTest.java:38)
+
+test3  Time elapsed: 6.377 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '19V8ZD3-0991', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\liamj\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61554}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a46861a283d332e40fc727fb9fb6fdc
+	at selenium.ExampleSeleniumTest.setUp(ExampleSeleniumTest.java:38)
+

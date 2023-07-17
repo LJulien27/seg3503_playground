@@ -3,7 +3,6 @@ package selenium;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 
-
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -74,6 +73,23 @@ class ExampleSeleniumTest {
     expected = "Bienvenu";
     actual = welcome.getText();
     assertEquals(expected, getWords(actual)[0]);
+  }
+
+  @Test
+  public void test3() {
+
+    driver.get("http://localhost:8080/admin");
+    String actualURL = driver.getCurrentUrl();
+    assertEquals("http://localhost:8080/login", actualURL);
+    WebElement loginId = driver.findElement(By.id("loginId"));
+    loginId.sendKeys("admin");
+    WebElement loginPasswd = driver.findElement(By.id("loginPasswd"));
+    loginPasswd.sendKeys("password");
+    WebElement login = driver.findElement(By.id("loginBtn"));
+    login.click();
+    actualURL = driver.getCurrentUrl();
+    assertEquals("http://localhost:8080/admin", actualURL);
+
   }
 
   private String[] getWords(String s) {
