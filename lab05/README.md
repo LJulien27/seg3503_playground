@@ -11,7 +11,8 @@ TWITTER
 
 pour que les tests fontionnent sur twitter la fonciton isMentionned doit etre capable de savoir quoi faire avec des multi string et des null alors j'ai fait
 ces changements
-![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/8e261fe6-c859-4a2e-b543-41388a6f4ea6)
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/69cd82a1-665e-48d3-b649-9fdcdc9b4986)
+
 
 ensuite pour le test
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/dcaf3a04-43f8-49a4-9484-533e539b44be)
