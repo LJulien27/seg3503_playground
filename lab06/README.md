@@ -1,3 +1,6 @@
+Liam Julien #300251443
+Rodney Kiwan #300235150
+
 Compiler avec mvn
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/01df0674-e2a6-41b4-9cb7-7f67a7786c54)
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/afb1e91e-afa6-4ba5-8e4c-4c4f3ef4f67d)
