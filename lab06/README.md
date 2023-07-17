@@ -9,5 +9,13 @@ mvn package -DskipTests
 Exécution de l'application
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/ce0a706e-f5b1-43cd-8ed2-691cfbc74183)
 
-Page admin/login
+Page login/admin
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/a3a0e3fa-7aac-4ca4-a7bf-563363ff1dfb)
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/fb7f9b0b-4d0e-49e3-8e5a-1ca4eea38bb5)
+
+Test avant ajouter un code de test
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/ae082eb7-2a7b-4592-a902-bf6721fb694a)
+
+Test apres cet ajout
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/2e3ccde8-7cdb-4164-93dc-a10d9315c71f)
+![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/82edeb4e-3e2e-4fe1-9410-3f513ed3adb0)
