@@ -33,7 +33,4 @@ this made me change the code as well
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/34a6455c-aedd-4883-84ef-26f56ebe58f8)
 ![image](https://github.com/LJulien27/seg3503_playground/assets/90732174/507d0249-5f32-4222-8d0f-97dd9af3b622)
 
-
-
-
-I spent some time fixing up the code and then tried running it again and it showed me errors for, I tried fixing this for a few hours and I couldn't find a solve
+I didn't completely understand all the errors in the code but they were shortened after my changes so I did what I could and am happy with what I did
